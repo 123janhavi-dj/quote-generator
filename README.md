@@ -38,4 +38,4 @@ This is a simple and interactive web app that displays a random motivational quo
 
 ---
 
-## 🙋‍♀️ Made with ❤️ by Janhavi Dakle
+## 🙋‍♀️ Made  by Janhavi Dakle
