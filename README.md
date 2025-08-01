@@ -25,5 +25,6 @@ This is a simple and interactive web app that displays a random motivational quo
 
 - A small list of quotes is stored in an array in JavaScript.
 - When the button is clicked, a new quote is randomly selected and displayed in the UI.
-## 🙋‍♀️ Made  by Janhavi Dakle
+##  Made  by Janhavi Dakle
+
 
